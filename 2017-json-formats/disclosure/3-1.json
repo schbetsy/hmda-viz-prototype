@@ -1,18 +1,18 @@
 {
-    "respondent_id": "0000451965", 
-    "institution_name": "WELLS FARGO BANK, NA", 
+    "respondentId": "0000451965", 
+    "institutionName": "WELLS FARGO BANK, NA", 
     "table": "3-1", 
     "type": "Disclosure", 
-    "desc": "Loans sold, by characteristics of borrower and census tract in which property is located and by type of purchaser (includes originations and purchased loans)", 
+    "description": "Loans sold, by characteristics of borrower and census tract in which property is located and by type of purchaser (includes originations and purchased loans)", 
     "year": "2013", 
-    "report-date": "05/27/2015", 
+    "reportDate": "05/27/2015", 
     "msa": {
         "id": "31084", 
         "name": "Los_Angeles-Long_Beach-Santa_Ana", 
         "state": "CA", 
-        "state_name": "California"
+        "stateName": "California"
     }, 
-    "borrowercharacteristics": [
+    "borrowerCharacteristics": [
         {
             "characteristic": "Race", 
             "races": [
@@ -730,9 +730,9 @@
         }, 
         {
             "characteristic": "Applicant Income", 
-            "applicantincomes": [
+            "applicantIncomes": [
                 {
-                    "applicantincome": "Less than 50% of MSA/MD median", 
+                    "applicantIncome": "Less than 50% of MSA/MD median", 
                     "purchasers": [
                         {
                             "name": "Fannie Mae", 
@@ -782,7 +782,7 @@
                     ]
                 }, 
                 {
-                    "applicantincome": "50-79% of MSA/MD median", 
+                    "applicantIncome": "50-79% of MSA/MD median", 
                     "purchasers": [
                         {
                             "name": "Fannie Mae", 
@@ -832,7 +832,7 @@
                     ]
                 }, 
                 {
-                    "applicantincome": "80-99% of MSA/MD median", 
+                    "applicantIncome": "80-99% of MSA/MD median", 
                     "purchasers": [
                         {
                             "name": "Fannie Mae", 
@@ -882,7 +882,7 @@
                     ]
                 }, 
                 {
-                    "applicantincome": "100-119% of MSA/MD median", 
+                    "applicantIncome": "100-119% of MSA/MD median", 
                     "purchasers": [
                         {
                             "name": "Fannie Mae", 
@@ -932,7 +932,7 @@
                     ]
                 }, 
                 {
-                    "applicantincome": "120% or more of MSA/MD median", 
+                    "applicantIncome": "120% or more of MSA/MD median", 
                     "purchasers": [
                         {
                             "name": "Fannie Mae", 
@@ -982,7 +982,7 @@
                     ]
                 }, 
                 {
-                    "applicantincome": "Income Not Available", 
+                    "applicantIncome": "Income Not Available", 
                     "purchasers": [
                         {
                             "name": "Fannie Mae", 
